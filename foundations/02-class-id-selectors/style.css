@@ -1,0 +1,15 @@
+.red
+{
+    background-color: rgba(218, 109, 109, 0.8);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;}
+#blue{
+    color: blue;
+font-size: 36px;}
+.red.big{
+font-size:28px;
+}
+#green{
+    background-color: rgba(112, 218, 112,0.8) ;
+    font-weight: bold;
+    font-size: 24px;
+}
